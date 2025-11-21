@@ -70,7 +70,7 @@ ros2 run nav_kel4a nav_kel4a
 Langkah terakhir menjalankan node C++ yang telah dibuat dimana node program berisi kirim goal ke point A dan buzzer berbunyi 1x setelah itu pergi ke point B dan akan berbunyi 2x
 
 #### Video Penjelasan dan video demonstrasi pada robot
-👉 [Video Penjelasan](...)
+👉 [Video Penjelasan](https://youtu.be/vMAmRzkJztY)
 
 👉 [Video demonstrasi Robot](https://youtu.be/YAc0uz2JfPw)
 
