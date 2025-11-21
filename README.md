@@ -72,5 +72,5 @@ Langkah terakhir menjalankan node C++ yang telah dibuat dimana node program beri
 #### Video Penjelasan dan video demonstrasi pada robot
 👉 [Video Penjelasan](...)
 
-👉 [Video demonstrasi Robot](...)
+👉 [Video demonstrasi Robot](https://youtu.be/YAc0uz2JfPw)
 
